@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SplitUp</string>
+    <string name="aboutDeveloper">
+    \n\n<b>Developed By :</b> \n
+        Sudhanshu Dubey \n\n
+        Please review my App\n
+        <b>E-mail:</b> sudhanshudubey5001@gmail.com\n
+    </string>
+    <string name="useandhowTo">
+            This app helps you with the money problem whenever you buy something with a bunch of people
+            or your friends, usually some pay while some does not, then there is a big mathematics
+            problem you have to crack to know "WHO OWES WHOM" and "HOW MUCH?"\n
+            Let us understand this by an example: \n
+            Rahul, Rohan, Anuj and Sudhanshu bought a gift for his friend worth Rs. 200 \n
+            Rahul gave Rs.100 \n
+            Rohan gave Rs.100 \n
+            while Anuj and Sudhanshu were out of cash. \n
+            So, this app will tell you:\n
+            <b>Anuj will give 50 to Rahul</b>\n
+            <b>Sudhanshu will give 50 to Rohan</b> \n
+            This is just a basic problem, you can solve any complex problem with SplitUp\n\n
+            <b>TUTORIAL</b>\n
+            1. Start by entering name and amount they contributed.\n
+            2. To enter details of next person, press NEXT\n
+              <b>TIP:</b> Leave amount field blank to set it to ZERO.\n
+            3. If anything goes wrong, press ERASE ALL and then enter all entries again, so be careful
+               while entering the details.\n
+            4. When you are finished press DONE and see the results.
+    </string>
+
+    <string name="tip">
+        Leave amount field blank to set it to zero
+    </string>
+
+    <string name="hyperLinkFB">
+        <a href="https://www.facebook.com/sudhanshu1947">Find me on Facebook</a>
+    </string>
+
+    <string name="hyperLinkLI">
+        <a href="https://www.linkedin.com/in/sudhanshu1947">Find me on LinkedIn</a>
+    </string>
+
+    <string name="profileName">
+        or use my fb profile name: \n
+        sudhanshu1947
+    </string>
+</resources>
