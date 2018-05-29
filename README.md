@@ -1,1 +1,2 @@
-# Android_Projects
+# SplitUp App
+For spliting up money in equal amounts.
